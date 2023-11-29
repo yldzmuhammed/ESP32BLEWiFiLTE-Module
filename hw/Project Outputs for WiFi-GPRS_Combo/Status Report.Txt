@@ -1,0 +1,15 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 18:27:52 On 17.10.2020
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [WiFi-GPRS_Combo.PrjPcb]
+   Generated File[Bill of Materials-WiFi-GPRS_Combo.xls]
+   Generated File[Bill of Materials-WiFi-GPRS_Combo.xls]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 18:28:15 On 17.10.2020
